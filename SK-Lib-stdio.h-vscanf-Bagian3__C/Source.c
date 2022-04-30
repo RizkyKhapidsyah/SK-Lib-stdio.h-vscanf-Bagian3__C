@@ -5,7 +5,7 @@
 #include <conio.h>
 
 /*
-	Source by CPPReference
+	Source by AlphaCodingSkills
 	Modified For Learn by RK
 	I.D.E : VS2022
 */
